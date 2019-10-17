@@ -15,8 +15,10 @@ const AlbumItem = ({ getPhotosByAlbumId, album: { id, title } }) => {
   }
   return (
     <div className='container album-item d-flex flex-column'>
-      <p className='text-justify'>
-        <strong>Album Title:</strong> {title}
+      <p>
+        <i className='fas fa-camera-retro'></i>
+        <strong> Album Title: </strong>
+        {title}
       </p>
       <button className='btn btn-info mt-auto' onClick={clickHandler}>
         Open this Album

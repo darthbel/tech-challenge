@@ -1,7 +1,7 @@
 @import '~react-image-gallery/styles/css/image-gallery.css';
 
-.album {
-  max-width: 700px;
+.App {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 .album-item {

@@ -39,8 +39,8 @@ const Landing = ({
   // If component is not ready to be displayed, the ternary condition validates and display a Spinner
   return (
     <section className='container'>
-      <h2 className='text-center my-5 text-body'>
-        Welcome, select a user to see his/her albums
+      <h2 className='text-center my-5 text-info'>
+        Welcome, select a user to see his/her albums!
       </h2>
       <div className='row'>
         <div className='col col-lg order-xs-1 order-lg-2 mb-5'>

@@ -7,7 +7,7 @@ const UsersDropdown = ({ users, onChange, isLoading }) => (
   <div>
     {!isLoading && users.length > 0 ? (
       <select
-        className='custom-select custom-select-lg'
+        className='custom-select custom-select-lg mb-5'
         name='selectedUser'
         onChange={e => onChange(e)}
       >
