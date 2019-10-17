@@ -8,7 +8,7 @@ First go clone it to your local machine to your desired folder
 <code>git clone https://github.com/darthbel/tech-challenge.git</code>
 
 And then change to the front-end-tech-challenge folder
-<code>cd /front-end-tech-challenge</code>
+<code>cd front-end-tech-challenge</code>
 
 Install the necessary dependencies with npm install
 <code>npm install</code>
