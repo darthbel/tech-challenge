@@ -1,0 +1,6 @@
+export const GET_USERS = 'GET_USERS'
+export const SELECT_USER = 'SELECT_USER'
+export const GET_ALBUMS = 'GET_ALBUMS'
+export const GET_PHOTOS = 'GET_PHOTOS'
+export const ERROR = 'ERROR'
+export const CLEAR_ALBUMS_AND_PHOTOS = 'CLEAR_ALBUMS_AND_PHOTOS'
